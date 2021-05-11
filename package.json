@@ -28,7 +28,7 @@
     "expo-random": "^8.2.1",
     "expo-screen-capture": "^1.0.1",
     "google-libphonenumber": "^3.2.9",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "qrcode": "^1.4.4",
     "qs": "^6.9.4",
